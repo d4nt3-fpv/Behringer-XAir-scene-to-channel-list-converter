@@ -1,5 +1,5 @@
 # Behringer-XAir-scene-to-channel-list-converter
-This tool generates channel tabels as docx files out of the .scn files
+This tool generates channel tabels as docx files out of the .scn files. \n
 Ever wanted to print out a list with all the channels you have configured on your Behringer X-Air 18 Mixer? This tool has got you covered!
 
 ## How to run the tool?
